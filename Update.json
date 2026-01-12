@@ -1,11 +1,10 @@
 {
-  "versionCode": "2",
-  "versionName": "1.0.1",
-  "downloadLink": "https://example.com/downloads/my_app_v1.0.1.apk",
-  "forceUpdate": false,
-  "Title": "Awesome New Features!",
-  "Msg": "We've listened to your feedback and made some significant improvements:\n\n- Dark Mode support added.\n- Faster loading times.\n- Improved stability and bug fixes.",
-  "updateSize": "30.5 MB",
-  "releaseDate": "2023-10-27",
-  "priority": "high"
+  "credit": "MR. NoOB",
+  "show_dialog": true,
+  "title": "🚀 Update Available💫",
+  "subtitle": "✨ New Version Release ✨",
+  "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
+  "btn_update": "Update Now",
+  "btn_exit": "Exit",
+  "link": "https://t.me/EpicModsChannel"
 }
